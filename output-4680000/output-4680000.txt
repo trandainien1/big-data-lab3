@@ -1,1 +1,2 @@
-20522
+goldman: 3
+citigroup: 35

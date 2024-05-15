@@ -1,1 +1,2 @@
-18034
+goldman: 1
+citigroup: 16

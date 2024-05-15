@@ -1,1 +1,2 @@
-7396
+goldman: 8
+citigroup: 6

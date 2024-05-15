@@ -1,1 +1,2 @@
-19007
+goldman: 26
+citigroup: 95
